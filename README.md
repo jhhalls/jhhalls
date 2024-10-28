@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rohit
 
-
+I’m an **experienced Data Scientist** with a strong background in delivering data-driven insights and solutions that enhance business performance and innovation. As a Data Science Mentor, I’m dedicated to empowering learners and professionals to navigate the dynamic field of data science with confidence. I specialize in building end-to-end data solutions, from exploratory data analysis and model development to deployment and optimization, utilizing a versatile stack of data science and machine learning tools. Here, you’ll find my projects, contributions, and collaborative work showcasing my commitment to impactful, scalable, and insightful data science.
 <!--
 **jhhalls/jhhalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
