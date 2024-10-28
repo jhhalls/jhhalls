@@ -3,7 +3,8 @@
 
 ## Introduction
 ## Skills & Technologies
-#3776AB 
+![Alt text](./controllers_brief.svg)
+<img src="https://raw.githubusercontent.com/jhhalls/jhhalls/refs/heads/main/icons/python.svg"> 
 
 
 ## 🌟 **<span style="color:#FF6347">Experienced Data Scientist</span> | Data Science Mentor | <span style="color:#4682B4">Passionate Problem Solver</span>**
