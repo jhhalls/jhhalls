@@ -1,12 +1,14 @@
-# Hi there 👋 I'm Rohit
+# Hey! 👋 I'm Rohit Raj Jalheria
 # 👋 Welcome to My GitHub!
 
+## Introduction
+## Skills & Technologies
+#3776AB 
 
-# 👋 **Welcome to My GitHub!**
 
 ## 🌟 **<span style="color:#FF6347">Experienced Data Scientist</span> | Data Science Mentor | <span style="color:#4682B4">Passionate Problem Solver</span>**
 
-Welcome! I’m an **<span style="background-color:#FFFF00; padding: 0 5px; border-radius: 5px">experienced Data Scientist</span>** with a strong background in delivering **<span style="color:#20B2AA">data-driven insights</span>** and **<span style="color:#FF4500">innovative solutions</span>** that enhance business performance. As a **<span style="background-color:#E6E6FA; padding: 0 5px; border-radius: 5px">Data Science Mentor</span>**, I’m dedicated to empowering learners and professionals to navigate the dynamic field of data science with confidence.
+I’m an **<span style="background-color:#FFFF00; padding: 0 5px; border-radius: 5px">experienced Data Scientist</span>** with a strong background in delivering **<span style="color:#20B2AA">data-driven insights</span>** and **<span style="color:#FF4500">innovative solutions</span>** that enhance business performance. As a **<span style="background-color:#E6E6FA; padding: 0 5px; border-radius: 5px">Data Science Mentor</span>**, I’m dedicated to empowering learners and professionals to navigate the dynamic field of data science with confidence.
 
 ### **What I Do:**
 - 🛠️ **<span style="color:#FF8C00">End-to-End Data Solutions</span>**: From **exploratory data analysis** and **model development** to **deployment** and **optimization**, I build impactful data science solutions that drive results.
