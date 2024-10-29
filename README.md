@@ -6,6 +6,18 @@
 ![Alt text](./controllers_brief.svg)
 <img src="https://raw.githubusercontent.com/jhhalls/jhhalls/refs/heads/main/icons/python.svg"> 
 
+## Featured Projects: 
+
+## Current Focus:
+
+## Connect with Me: 
+- LinkedIn
+- Instagram
+- Twitter
+- personal website
+- Blogs
+- etc
+
 
 ## 🌟 **<span style="color:#FF6347">Experienced Data Scientist</span> | Data Science Mentor | <span style="color:#4682B4">Passionate Problem Solver</span>**
 
