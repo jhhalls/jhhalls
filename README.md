@@ -1,15 +1,10 @@
-# Hey! 👋 I'm Rohit Raj Jalheria
-# 👋 Welcome to My GitHub!
+## Hey! 👋 I'm Rohit Raj Jalheria
+## 👋 Welcome to My GitHub!
 
-## Introduction
-## Skills & Technologies
-![Alt text](./controllers_brief.svg)
-<img src="https://raw.githubusercontent.com/jhhalls/jhhalls/refs/heads/main/icons/python.svg"> 
-
+### Introduction
+### Skills & Technologies
 ## Featured Projects: 
-
 ## Current Focus:
-
 ## Connect with Me: 
 - LinkedIn
 - Instagram
