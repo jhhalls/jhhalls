@@ -11,7 +11,7 @@
 - Twitter
 - personal website
 - Blogs
-- etc
+- etc.
 
 
 ## 🌟 **<span style="color:#FF6347">Experienced Data Scientist</span> | Data Science Mentor | <span style="color:#4682B4">Passionate Problem Solver</span>**
