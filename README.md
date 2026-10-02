@@ -51,7 +51,7 @@ and whether anyone can tell if the model is right.
 > deliberately generalised.
 
 <div align="center">
-<a href="https://github.com/jhhalls/engineering-portfolio">
+<a href="https://github.com/jhhalls/engineering-portfolio/Readme.md">
 <img src="https://img.shields.io/badge/📘_Full_Engineering_Portfolio-Deep_dive_into_every_system-0b2e4f?style=for-the-badge" />
 </a>
 </div>
