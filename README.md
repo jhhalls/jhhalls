@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rohit-raj-jalheria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="TWITTER_URL"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="WEBSITE_URL"><img src="https://img.shields.io/badge/Website-20B2AA?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="BLOG_URL"><img src="https://img.shields.io/badge/Blog-FF4500?style=flat-square&logo=hashnode&logoColor=white" /></a>
