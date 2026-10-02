@@ -23,7 +23,7 @@
 <a href="TWITTER_URL"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="WEBSITE_URL"><img src="https://img.shields.io/badge/Website-20B2AA?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="BLOG_URL"><img src="https://img.shields.io/badge/Blog-FF4500?style=flat-square&logo=hashnode&logoColor=white" /></a>
-<a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:rjalheira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=jhhalls&style=flat-square&color=00b4a6&label=Profile+Views" />
 
 </div>
